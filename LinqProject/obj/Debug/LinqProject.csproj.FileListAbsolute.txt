@@ -1,0 +1,4 @@
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.Properties.Resources.resources
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.GenerateResource.cache
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
