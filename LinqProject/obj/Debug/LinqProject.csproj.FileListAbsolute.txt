@@ -2,3 +2,9 @@ C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.Ass
 C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.Properties.Resources.resources
 C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.GenerateResource.cache
 C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\LinqProject\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Users\e\source\repos\LinqProject\LinqProject\bin\Debug\LinqProject.exe
+C:\Users\e\source\repos\LinqProject\LinqProject\bin\Debug\LinqProject.pdb
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.exe
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.pdb
+C:\Users\e\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.Form1.resources
